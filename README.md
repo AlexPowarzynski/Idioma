@@ -8,10 +8,6 @@
 ### Description
 This application will allow the user to access different information about a word or phrase, including the definition, translations to a language of the user's choice, how to pronounce the word, and even display modern slang of said word or phrase.
 
-### Sketched Design
-(Explain here)
-- https://imgur.com/9doEoKA.jpg
-
 ### APIs to be Used
 Defintion & Translations: https://rapidapi.com/systran/api/systran-io-translation-and-nlp
 Slang: https://rapidapi.com/community/api/urban-dictionary
